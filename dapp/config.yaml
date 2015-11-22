@@ -1,0 +1,9 @@
+appName: plantoid
+developer: Florian
+email: fg@blockchain.lawyer
+appURL: 'http://okhaos.com/plantoid'
+repo: 'https://github.com/yaoe/plantoid'
+apiURL: 'https://strato-dev.blockapps.net'
+transferGasLimit: '21000'
+contractGasLimit: '10000000'
+gasPrice: '50000000000'
