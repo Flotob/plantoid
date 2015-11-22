@@ -28,3 +28,6 @@ node_modules
 # Ignoring IDE Settings
 build
 npm-debug.log
+
+# Sensitive Data
+key.json
